@@ -1,10 +1,12 @@
-<h1 align="center">JS Project - Counter</h1>
+<h1 align="center">javascript - counter app</h1>
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
-  - [Built With](#built-with)
-- [How to use](#how-to-use)
+- [Built With](#built-with)
+- [How To Use](#how-to-use)
+- [Clone this repository](#clone-this-repository)
 - [Acknowledgements](#acknowledgements)
 - [Credit](#credit)
 - [Contact](#contact)
@@ -13,32 +15,32 @@
 
 ![screenshot](./images/README.png)
 
+## Built With
 
-
-### Built With
-
-- [HTML](#built-with)
-- [CSS](#built-with)
-- [JS](#built-with)
+-   HTML
+-   CSS
+-   Javascript
 
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
-## Clone this repository
-```bash
-git clone https://github.com/saadman-galib/JS-Project-Counter.git
-```
 
+## Clone this repository
+
+```bash
+git clone https://github.com/saadman-galib/javascript-counter-app.git
+```
 
 ## Acknowledgements
 
-- [A Simple JS project with addEventListener](#acknowledgements)
+-   Steps to replicate a design with only HTML and CSS
+-   Using javascript for updating numbers onclick event
 
 ## Credit
-The background color I have used is from [CSS Gradient](https://cssgradient.io/)
+
+-   I have made this project by myself.
 
 ## Contact
 
-- GitHub [@saadman-galib](https://www.github.com/saadman-galib)
-- Twitter [@GalibSaadman](https://www.twitter.com/GalibSaadman)
-- Facebok Page [@Saadman Codes](https://www.facebook.com/saadman.codes/)
+-   GitHub [@saadman-galib](https://www.github.com/saadman-galib)
+-   Twitter [@GalibSaadman](https://www.twitter.com/GalibSaadman)
